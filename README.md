@@ -1,2 +1,2 @@
 # FurruAI
-Web site - [furruai.pp.ua](furruai.pp.ua)
+Web site - [furruai.pp.ua](https://furruai.pp.ua)
